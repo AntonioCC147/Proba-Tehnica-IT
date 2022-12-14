@@ -18,7 +18,7 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 
 # Task-uri:
 
-I. **FRONTEND**
+## I. **FRONTEND**
 1. **Navbar:**
 	- Navbar-ul reprezintă primul lucru cu care am început să lucrez, în ciuda celor recomandate. Am reușit să fac pentru prima dată un navbar aproximativ funcțional, întrucât până acum nu mai lucrasem cu așa ceva. Am reușit să-l fac să se mențină pe tot parcursul scroll-ului și am reușit să fac și cele două casete de **"Logare"**, respectiv **"Creare cont"**.
 	- De asemenea, navbar-ul a fost cel mai greu lucru din partea de frontend. Nu reușeau să-l poziționez corect, să mențin logo-ul în partea stângă și nici să se plimbe pe tot parcursul navigării, însă, cu ajutorul sfaturilor de la mentor, dar și internet, am dus totul până la capăt, într-un final.
