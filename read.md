@@ -1,9 +1,7 @@
-## Proiect realizat de către Crantea Antonio Cristian pentru Departamentul de IT din cadrul LSAC - Decembrie 2022
+### Proiect realizat de către Crantea Antonio Cristian pentru Departamentul de IT din cadrul LSAC - Decembrie 2022
 
 # Prefață
-
-		Autoevaluarea reprezinta un element esențial atunci când încerci să faci o analiză asupra dezvoltării tale, bazate atât pe
-	lucrul individual, cât și pe munca în echipă. Astfel ca, fiind cât se poate de obiectiv și realist, sunt conștient ca sunt departe
+Autoevaluarea reprezinta un element esențial atunci când încerci să faci o analiză asupra dezvoltării tale, bazate atât pe lucrul individual, cât și pe munca în echipă. Astfel ca, fiind cât se poate de obiectiv și realist, sunt conștient ca sunt departe
 	de a fi un software developer bun, dar sunt mult mai aproape decât "Eu", cel de acum un an.
 		Numele meu este Crantea Antonio Cristian, sunt student în anul I la Ingineria Sistemelor, iar acest proiect m-a făcut să
 	realizez cât de multe pot să fac într-un timp atât de scurt. M-a făcut să arăt că și eu pot să realizez ceva frumos cu propriile
