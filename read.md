@@ -73,4 +73,4 @@ I. FRONTEND
 
 II. BACKEND
 - Pentru partea de back veți avea nevoie să instalați "PostMan" (pentru testarea API) și "MongoDBCompass" (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul "Visual Studio Code", tastând comanda "npm start" pentru a porni baza de date, doar atunci când vă aflați în folderul "backend". Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii "cd .\backend\".
-<p style='text-align: justify;'> Your Text </p>
+<p style='text-align: justify;'> Pentru partea de back veți avea nevoie să instalați "PostMan" (pentru testarea API) și "MongoDBCompass" (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul "Visual Studio Code", tastând comanda "npm start" pentru a porni baza de date, doar atunci când vă aflați în folderul "backend". Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii "cd .\backend\". </p>
