@@ -64,3 +64,10 @@ II. BACKEND:
 (!) Alte precizări:
 		Am încercat exact ca la partea de frontend, anume să fac totul să fie cât mai sugestiv și ușor de înțeles pentru cine citește codul. Recunosc că mai sunt lucruri pe care le pot îmbunătăți, evident, însă per total am înțeles, zic eu, aspecte importante din această parte.
 
+# Rularea aplicațiilor:
+
+Pentru a putea rula și vizualiza local întreg conținutul proiectului, trebuie descărcat de pe Github. După acest pas, dezarhivați folderul pe calculator, ulterior având acces la toate fișerele sursă.
+		I. FRONTEND
+			Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul "frontend" și să accesați fișierul "MEMEIT". Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ".txt", sau cu ajutorul aplicației "Visual Studio Code".
+		II. BACKEND
+			Pentru partea de back veți avea nevoie să instalați "PostMan" (pentru testarea API) și "MongoDBCompass" (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul "Visual Studio Code", tastând comanda "npm start" pentru a porni baza de date, doar atunci când vă aflați în folderul "backend". Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii "cd .\backend\".
