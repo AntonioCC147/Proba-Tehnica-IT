@@ -58,6 +58,7 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 
 3. **Register & Login:**
 	- Pentru acest task am încercat mai mult să definesc mici părți din totalul pe care trebuia să-l fac, cât am reușit.
+	- Consider că am reușit să codific parolele cu ajutorul unui algoritm **bcrypt**, să definesc corespunzător endpoint-urile și să afișez erorile conform cerințelor.
 
 4. **Input Validation:**
 	- Am încercat să fac validare pentru nume, parolă și email după cerință. Nu am apucat să leg prea mult această validare de site, însă am decis că mai bine încerc să las ceva în filă, decât să nu mă ating de task.
