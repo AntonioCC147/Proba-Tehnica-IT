@@ -69,6 +69,7 @@ II. BACKEND:
 Pentru a putea rula și vizualiza local întreg conținutul proiectului, trebuie descărcat de pe Github. După acest pas, dezarhivați folderul pe calculator, ulterior având acces la toate fișerele sursă.
 
 I. FRONTEND
-		Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul "frontend" și să accesați fișierul "MEMEIT". Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ".txt", sau cu ajutorul aplicației "Visual Studio Code".
+Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul "frontend" și să accesați fișierul "MEMEIT". Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ".txt", sau cu ajutorul aplicației "Visual Studio Code".
+
 II. BACKEND
-		Pentru partea de back veți avea nevoie să instalați "PostMan" (pentru testarea API) și "MongoDBCompass" (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul "Visual Studio Code", tastând comanda "npm start" pentru a porni baza de date, doar atunci când vă aflați în folderul "backend". Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii "cd .\backend\".
+Pentru partea de back veți avea nevoie să instalați "PostMan" (pentru testarea API) și "MongoDBCompass" (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul "Visual Studio Code", tastând comanda "npm start" pentru a porni baza de date, doar atunci când vă aflați în folderul "backend". Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii "cd .\backend\".
