@@ -66,7 +66,7 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 
 # Rularea aplicațiilor:
 
-Pentru a putea rula și vizualiza local întreg conținutul proiectului, trebuie descărcat de pe **"Github"**. După acest pas, dezarhivați folderul pe calculator, ulterior având acces la toate fișerele sursă.
+Pentru a putea rula și vizualiza local întreg conținutul proiectului, trebuie descărcat de pe **"GitHub"**. După acest pas, dezarhivați folderul pe calculator, ulterior având acces la toate fișerele sursă.
 
 #### I. FRONTEND
 - Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul **"frontend"** și să accesați fișierul **"MEMEIT"**. Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ``.txt``, sau cu ajutorul aplicației **"Visual Studio Code"**.
