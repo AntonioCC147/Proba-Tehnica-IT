@@ -44,30 +44,23 @@ I. FRONTEND
 	
 II. BACKEND:
 1. DB schema for users:
-		Am reușit să definesc două "models" și două "routes", câte una din fiecare pentru entitatea "user", iar celelalte pentru
-	entitatea "meme". Întrucât ID-ul se genera automat de baza de date, nu l-am mai trecut în "model", în schimb am adăugat și data
-	exactă.
+		Am reușit să definesc două "models" și două "routes", câte una din fiecare pentru entitatea "user", iar celelalte pentru entitatea "meme". Întrucât ID-ul se genera automat de baza de date, nu l-am mai trecut în "model", în schimb am adăugat și data exactă.
 
 2. CRUD - Create, Read, Update, Delete:
-		POST /memes a fost primul CRUD pe care l-am creat și drept să spun, mi s-a părut dificil la început. O dată definit corect,
-	lucrurile mi s-au părut mai clare și deci implementarea celorlalte a venit aproximativ, cu mici ajutări, de la sine.
-		GET /memes și GET /memes/:id am reușit să le fac să funcționeze destul de rapid, după cum am spus mai sus, nefiind prea complicat,
-	întrucât sintaxa era aproximativ asemănătoare.
-		PATCH /memes a fost, de asemeneam, destul de provocator de rezolvat. Aici deja începeam să fac lucrurile singur, fără să mai caut
-	sau să mai întreb până și cele mai mici lucruri, întrucât totul părea să aibă sens.
-		DELETE /memes/:id a fost favoritul meu. Mi s-a părut interesant de făcut, iar când am văzut că într-adevăr funcționează, mi-a umplut
-	inima de bucurie.
+		POST /memes a fost primul CRUD pe care l-am creat și drept să spun, mi s-a părut dificil la început. O dată definit corect, lucrurile mi s-au părut mai clare și deci implementarea celorlalte a venit aproximativ, cu mici ajutări, de la sine.
+		GET /memes și GET /memes/:id am reușit să le fac să funcționeze destul de rapid, după cum am spus mai sus, nefiind prea complicat, întrucât sintaxa era aproximativ asemănătoare.
+		PATCH /memes a fost, de asemeneam, destul de provocator de rezolvat. Aici deja începeam să fac lucrurile singur, fără să mai caut sau să mai întreb până și cele mai mici lucruri, întrucât totul părea să aibă sens.
+		DELETE /memes/:id a fost favoritul meu. Mi s-a părut interesant de făcut, iar când am văzut că într-adevăr funcționează, mi-a umplut inima de bucurie.
 
 3. Register & Login:
 		Pentru acest task am încercat mai mult să definesc mici părți din totalul pe care trebuia să-l fac, cât am reușit.
 
 4. Input Validation:
-		Am încercat să fac validare pentru nume, parolă și email după cerință. Nu am apucat să leg prea mult această validare de site, însă
-	am decis că mai bine încerc să las ceva în filă, decât să nu mă ating de task.
+		Am încercat să fac validare pentru nume, parolă și email după cerință. Nu am apucat să leg prea mult această validare de site, însă am decis că mai bine încerc să las ceva în filă, decât să nu mă ating de task.
 
 5. Protected Endpoints / 6. BONUS: File Upload:
 		Spre rușinea mea, nu am putut să realizez absolut nimic din aceste task-uri.
 
 (!) Alte precizări:
-		Am încercat exact ca la partea de frontend, anume să fac totul să fie cât mai sugestiv și ușor de înțeles pentru cine citește codul.
-	Recunosc că mai sunt lucruri pe care le pot îmbunătăți, evident, însă per total am înțeles, zic eu, aspecte importante din această parte.
+		Am încercat exact ca la partea de frontend, anume să fac totul să fie cât mai sugestiv și ușor de înțeles pentru cine citește codul. Recunosc că mai sunt lucruri pe care le pot îmbunătăți, evident, însă per total am înțeles, zic eu, aspecte importante din această parte.
+
