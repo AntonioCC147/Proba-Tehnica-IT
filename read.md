@@ -4,15 +4,15 @@
 
 - Autoevaluarea reprezinta un element esențial atunci când încerci să faci o analiză asupra dezvoltării tale, bazate atât pe lucrul individual, cât și pe munca în echipă. Astfel ca, fiind cât se poate de obiectiv și realist, sunt conștient ca sunt departe de a fi un software developer bun, dar sunt mult mai aproape decât **"Eu"**, cel de acum un an.
 - Numele meu este **Crantea Antonio Cristian**, sunt student în anul I la **Ingineria Sistemelor**, iar acest proiect m-a făcut să realizez cât de multe pot să fac într-un timp atât de scurt. M-a făcut să arăt că și eu pot să realizez ceva frumos cu propriile puteri, dar mai ales mi-a întărit convingerile cu privire la dorințele mele, respectiv de a face parte dintr-o comunitate în care să mă pot dezvolta, să învăț și să duc aceste obiceiuri mai departe.
-- La venirea în facultate, cunoștințele mele din acest domeniu erau aproape nule. Nu cunoșteam prea bine **HTML**, iar partea de backend reprezenta ceva ce numai **"IT-iști adevărați"** știau să o facă. Pe parcursul proiectului, consider că mi-am dezvoltat câtuși de puțin soft skill-urile și am devenit o versiune mai bună decât eram.
+- La venirea în facultate, cunoștințele mele din acest domeniu erau aproape nule. Nu cunoșteam aproape deloc **HTML**, iar partea de backend reprezenta ceva ce numai **"IT-iști adevărați"** știau să o facă. Pe parcursul proiectului, consider că mi-am dezvoltat câtuși de puțin soft skill-urile și am devenit o versiune mai bună decât eram.
 - Am început lucrarea la acest proiect chiar din data de **26 noiembrie**, atunci când i-am dat mesaj mentorului meu, citez: "M a luat panica", "Ma simt paralel", după care am lucrat constant la el, cu mici pauze scurte întrucât trebuia să repet pentru parțiale.
 - Proiectul, o dată descărcat, conține trei mari secțiuni: **"backend"**, acolo unde se regăsesc toate fișerele necesare pentru partea de backend, **"frontend"**, acolo unde se găsește întreg codul **HTML** pentru site, **CSS-ul**, dar și un folder care conține **imaginile** pe care le-am utilizate, dar și un **"readme"**, unde deja vă aflați.
     
 # Tehnologii utilizate:
 
 Pentru realizarea proiectului, am folosit:
-1. **Frontend: HTML, Bootstrap, CSS;**
-2. **Backend: PostMan, MongoDB, Mongoose, JavaScript (NodeJS);**
+1. **Frontend: HTML, Bootstrap, CSS**;
+2. **Backend: PostMan, MongoDB, Mongoose, JavaScript (NodeJS)**;
 
 Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind totodată și prima dată când am utilizat această aplicație.
 
@@ -20,7 +20,7 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 
 I. **FRONTEND**
 1. **Navbar:**
-		Navbar-ul reprezintă primul lucru cu care am început să lucrez, în ciuda celor recomandate. Am reușit să fac pentru prima dată un navbar aproximativ funcțional, întrucât până acum nu mai lucrasem cu așa ceva. Am reușit să-l fac să se mențină pe tot parcursul scroll-ului și am reușit să fac și cele două casete de "Logare", respectiv "Creare cont".
+	Navbar-ul reprezintă primul lucru cu care am început să lucrez, în ciuda celor recomandate. Am reușit să fac pentru prima dată un navbar aproximativ funcțional, întrucât până acum nu mai lucrasem cu așa ceva. Am reușit să-l fac să se mențină pe tot parcursul scroll-ului și am reușit să fac și cele două casete de "Logare", respectiv "Creare cont".
 		De asemenea, navbar-ul a fost cel mai greu lucru din partea de frontend. Nu reușeau să-l poziționez corect, să mențin logo-ul în partea stângă și nici să se plimbe pe tot parcursul navigării, însă, cu ajutorul sfaturilor de la mentor, dar și internet, am dus totul până la capăt, într-un final.
 
 2. **Landing page:**
