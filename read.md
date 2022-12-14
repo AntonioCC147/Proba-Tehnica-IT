@@ -69,16 +69,16 @@ II. **BACKEND:**
 Pentru a putea rula și vizualiza local întreg conținutul proiectului, trebuie descărcat de pe Github. După acest pas, dezarhivați folderul pe calculator, ulterior având acces la toate fișerele sursă.
 
 I. **FRONTEND**
-- Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul **"frontend"** și să accesați fișierul **"MEMEIT"**. Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ".txt", sau cu ajutorul aplicației "Visual Studio Code".
+- Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul **"frontend"** și să accesați fișierul **"MEMEIT"**. Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ``.txt``, sau cu ajutorul aplicației **"Visual Studio Code"**.
 
 II. **BACKEND**
-- Pentru partea de back veți avea nevoie să instalați "PostMan" (pentru testarea API) și "MongoDBCompass" (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul "Visual Studio Code", tastând comanda "npm start" pentru a porni baza de date, doar atunci când vă aflați în folderul "backend". Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii "cd .\backend\".
+- Pentru partea de back veți avea nevoie să instalați **"PostMan"** (pentru testarea API) și **"MongoDBCompass"** (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul **"Visual Studio Code"**, tastând comanda ``npm start`` pentru a porni baza de date, doar atunci când vă aflați în folderul ``backend``. Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii ``cd .\backend\``.
 
 # Concluzii & Impresii:
-- Cum v-am spus mai sus, acest proiect a reprezentat un mic impuls spre dezvoltarea mea privind tot ceea ce înseamnă domeniul IT.
+- Cum v-am spus mai sus, acest proiect a reprezentat un mic impuls spre dezvoltarea mea privind tot ceea ce înseamnă domeniul **IT**.
 - Task-urile mi-au stârnit interes, dar și nervi și frustrări, (de ce să nu recunosc?), întrucât presiunea s-a resimțit din plin.
 - Am încercat să fiu perfecționist până am realizat că perfecțiunea nu reprezenta ceva specific, ci consta în îndeplinirea unui task în felul meu, în special dacă nu mai avusesem de a face cu asemenea lucruri până la momentul respectiv.
 - Pe partea de frontend am reușit să-mi îmbunătățesc puținele lucrurile pe care deja le știam și am învățat o mulțime de alte elemente cu care nu mai lucrasem până acum, respectiv navbar-ul, împărțirea unei pagini web, design-ul propriu-zis și multe alte aspecte ce țineau de îmbunătățirea codului, chiar și code styling.
 - Pe partea de backend am început "de la -1", cum îmi mai place mie să spun ca să scot în evidență clar că nu aveam habar de absolut nimic din acest domeniu. Cu puțin ajutor din partea mentorului, am reușit să duc la capăt câteva dintre task-uri, dar am învățat și să caut acolo unde trebuie pentru a găsi ce am nevoie.
 - De asemeneam, printre rânduri v-am lăsat și puținele dintre motivele pentru care îmi doresc să continui ca membru LSAC în acest departament, iar ca o paranteză, CV-ul chiar nu este unul dintre ele.
-- Nu în ultimul rând, doresc să vă mulțumesc pentru șansa de a participa la acest proiect, dar în special doresc să îi mulțumesc  mentorului meu, Andrei Mărunțiș, pentru tot suportul acordat pe parcursul probei, dar și pentru că a reușit să mă suporte în totacest timp!
+- Nu în ultimul rând, doresc să vă mulțumesc pentru șansa de a participa la acest proiect, dar în special doresc să îi mulțumesc  mentorului meu, **Andrei Mărunțiș**, pentru tot suportul acordat pe parcursul probei, dar și pentru că a reușit să mă suporte în totacest timp!
