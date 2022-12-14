@@ -42,7 +42,7 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 **(!) Alte precizări:**<br>
 	- Pentru partea de aspect, am definit în mare parte singur clasele în **CSS**, oferindu-le totodată un nume sugestiv pentru a și înțelege exact care ce face. Am respectat fonturile și dimensiunile date de mockup, cu mici modificări pentru a putea realiza responsive-ul și am încercat să le fac în așa fel încât, ori de câte ori am nevoie, să le pot "apela".
 	
-### II. BACKEND:
+#### II. BACKEND:
 1. **DB schema for users:**
 	- Am reușit să definesc două **"models"** și două **"routes"**, câte una din fiecare pentru entitatea **"user"**, iar celelalte pentru entitatea **"meme"**. Întrucât **ID**-ul se genera automat de baza de date, nu l-am mai trecut în **"model"**, în schimb am adăugat și data exactă.
 
@@ -68,10 +68,10 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 
 Pentru a putea rula și vizualiza local întreg conținutul proiectului, trebuie descărcat de pe **"Github"**. După acest pas, dezarhivați folderul pe calculator, ulterior având acces la toate fișerele sursă.
 
-### I. FRONTEND
+#### I. FRONTEND
 - Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul **"frontend"** și să accesați fișierul **"MEMEIT"**. Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ``.txt``, sau cu ajutorul aplicației **"Visual Studio Code"**.
 
-### II. BACKEND
+#### II. BACKEND
 - Pentru partea de back veți avea nevoie să instalați **"PostMan"** (pentru testarea API) și **"MongoDBCompass"** (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul **"Visual Studio Code"**, tastând comanda ``npm start`` pentru a porni baza de date, doar atunci când vă aflați în folderul ``backend``. Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii ``cd .\backend\``.
 
 # Concluzii & Impresii:
