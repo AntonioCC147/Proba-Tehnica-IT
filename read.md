@@ -20,37 +20,37 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 
 I. **FRONTEND**
 1. **Navbar:**
-	- Navbar-ul reprezintă primul lucru cu care am început să lucrez, în ciuda celor recomandate. Am reușit să fac pentru prima dată un navbar aproximativ funcțional, întrucât până acum nu mai lucrasem cu așa ceva. Am reușit să-l fac să se mențină pe tot parcursul scroll-ului și am reușit să fac și cele două casete de "Logare", respectiv "Creare cont".
+	- Navbar-ul reprezintă primul lucru cu care am început să lucrez, în ciuda celor recomandate. Am reușit să fac pentru prima dată un navbar aproximativ funcțional, întrucât până acum nu mai lucrasem cu așa ceva. Am reușit să-l fac să se mențină pe tot parcursul scroll-ului și am reușit să fac și cele două casete de **"Logare"**, respectiv **"Creare cont"**.
 	- De asemenea, navbar-ul a fost cel mai greu lucru din partea de frontend. Nu reușeau să-l poziționez corect, să mențin logo-ul în partea stângă și nici să se plimbe pe tot parcursul navigării, însă, cu ajutorul sfaturilor de la mentor, dar și internet, am dus totul până la capăt, într-un final.
 
 2. **Landing page:**
-	- Connsider că am reușit să fac site-ul să arate ca în mockup-ul impus de către temă. Am respectat culorile, fonturile, dimensiunile și am încercat pe cât posibil să fac ca până și butonul de la căsuțele de logare / creare cont să conțină butoanele din exemplu. Mă consider un om perfecționist, de aceea detaliile mici contează. Chiar pe ultima sută de metri am observat că pusesem butonul de Facebook de tip "fa-facebook" în loc de "fa-facebook-official", astfel că am modificat. Butonul de "Upload a meme" trimite utilizatorul către căsuța de încărcare a meme-urilor, așa cum a fost specificat.
-	- De asemenea, prima dată am putut și am învățat să folosesc "Grid System", întrucât nu înțelegeam cum pot secționa un site pe mai multe părți.
+	- Connsider că am reușit să fac site-ul să arate ca în mockup-ul impus de către temă. Am respectat culorile, fonturile, dimensiunile și am încercat pe cât posibil să fac ca până și butonul de la căsuțele de logare / creare cont să conțină butoanele din exemplu. Mă consider un om perfecționist, de aceea detaliile mici contează. Chiar pe ultima sută de metri am observat că pusesem butonul de Facebook de tip **"fa-facebook"** în loc de **"fa-facebook-official"**, astfel că am modificat. Butonul de **"Upload a meme"** trimite utilizatorul către căsuța de încărcare a meme-urilor, așa cum a fost specificat.
+	- De asemenea, prima dată am putut și am învățat să folosesc **"Grid System"**, întrucât nu înțelegeam cum pot secționa un site pe mai multe părți.
 
 3. **Login / Register:**
-		Am făcut castele de logare / înregistrare să se deschidă pe centrul ecranului, adăugând și efectul de umbră cerut. Atunci când se apasă oriunde pe ecran, acestea se închid.
+	- Am făcut castele de logare / înregistrare să se deschidă pe centrul ecranului, adăugând și efectul de umbră cerut. Atunci când se apasă oriunde pe ecran, acestea se închid.
 
 4. **Formular de upload imagini:**
-		Am realizat coborârea în jos a paginii la apăsarea butonului "Upload a meme".
+	- Am realizat coborârea în jos a paginii la apăsarea butonului **"Upload a meme"**.
 
 5. **Footer:**
-		Footer-ul mi s-a părut cea mai ușoară parte. Am îndeplinit acest task cu ușurință și consider că l-am făcut exact așa cum a trebuit. Butoanele deschid noi pagini care conțin link-urile impuse de proiect.
+	- Footer-ul mi s-a părut cea mai ușoară parte. Am îndeplinit acest task cu ușurință și consider că l-am făcut exact așa cum a trebuit. Butoanele deschid noi pagini care conțin link-urile impuse de proiect.
 
 6. **Responsivitatea design-ului:**
-		Acest task a reprezentat o adevărată provocare, întrucât nu mai lucrasem cu așa ceva până acum. Am învățat care este faza cu padding-ul, margin, alinieri și așa mai departe. Am încercat să fiu atent până și la cele mai mici detalii, deci, în mare parte, consider că site-ul este "responsive", cu mici scăpări, însă eu sunt foarte mândru de ce am realizat.
+	- Acest task a reprezentat o adevărată provocare, întrucât nu mai lucrasem cu așa ceva până acum. Am învățat care este faza cu padding-ul, margin, alinieri și așa mai departe. Am încercat să fiu atent până și la cele mai mici detalii, deci, în mare parte, consider că site-ul este "responsive", cu mici scăpări, însă eu sunt foarte mândru de ce am realizat.
 
 **(!) Alte precizări:**
-		Pentru partea de aspect, am definit în mare parte singur clasele în CSS, oferindu-le totodată un nume sugestiv pentru a și înțelege exact care ce face. Am respectat fonturile și dimensiunile date de mockup, cu mici modificări pentru a putea realiza responsive-ul și am încercat să le fac în așa fel încât, ori de câte ori am nevoie, să le pot "apela".
+	- Pentru partea de aspect, am definit în mare parte singur clasele în **CSS**, oferindu-le totodată un nume sugestiv pentru a și înțelege exact care ce face. Am respectat fonturile și dimensiunile date de mockup, cu mici modificări pentru a putea realiza responsive-ul și am încercat să le fac în așa fel încât, ori de câte ori am nevoie, să le pot "apela".
 	
 II. **BACKEND:**
 1. **DB schema for users:**
-		Am reușit să definesc două "models" și două "routes", câte una din fiecare pentru entitatea "user", iar celelalte pentru entitatea "meme". Întrucât ID-ul se genera automat de baza de date, nu l-am mai trecut în "model", în schimb am adăugat și data exactă.
+	- Am reușit să definesc două **"models"** și două **"routes"**, câte una din fiecare pentru entitatea **"user"**, iar celelalte pentru entitatea **"meme"**. Întrucât **ID**-ul se genera automat de baza de date, nu l-am mai trecut în **"model"**, în schimb am adăugat și data exactă.
 
 2. **CRUD - Create, Read, Update, Delete:**
-		POST /memes a fost primul CRUD pe care l-am creat și drept să spun, mi s-a părut dificil la început. O dată definit corect, lucrurile mi s-au părut mai clare și deci implementarea celorlalte a venit aproximativ, cu mici ajutări, de la sine.
-		GET /memes și GET /memes/:id am reușit să le fac să funcționeze destul de rapid, după cum am spus mai sus, nefiind prea complicat, întrucât sintaxa era aproximativ asemănătoare.
-		PATCH /memes a fost, de asemeneam, destul de provocator de rezolvat. Aici deja începeam să fac lucrurile singur, fără să mai caut sau să mai întreb până și cele mai mici lucruri, întrucât totul părea să aibă sens.
-		DELETE /memes/:id a fost favoritul meu. Mi s-a părut interesant de făcut, iar când am văzut că într-adevăr funcționează, mi-a umplut inima de bucurie.
+	- POST /memes a fost primul CRUD pe care l-am creat și drept să spun, mi s-a părut dificil la început. O dată definit corect, lucrurile mi s-au părut mai clare și deci implementarea celorlalte a venit aproximativ, cu mici ajutări, de la sine.
+	- GET /memes și GET /memes/:id am reușit să le fac să funcționeze destul de rapid, după cum am spus mai sus, nefiind prea complicat, întrucât sintaxa era aproximativ asemănătoare.
+	- PATCH /memes a fost, de asemeneam, destul de provocator de rezolvat. Aici deja începeam să fac lucrurile singur, fără să mai caut sau să mai întreb până și cele mai mici lucruri, întrucât totul părea să aibă sens.
+	- DELETE /memes/:id a fost favoritul meu. Mi s-a părut interesant de făcut, iar când am văzut că într-adevăr funcționează, mi-a umplut inima de bucurie.
 
 3. **Register & Login:**
 		Pentru acest task am încercat mai mult să definesc mici părți din totalul pe care trebuia să-l fac, cât am reușit.
