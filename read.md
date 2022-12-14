@@ -39,7 +39,7 @@ I. **FRONTEND**
 6. **Responsivitatea design-ului:**
 	- Acest task a reprezentat o adevărată provocare, întrucât nu mai lucrasem cu așa ceva până acum. Am învățat care este faza cu padding-ul, margin, alinieri și așa mai departe. Am încercat să fiu atent până și la cele mai mici detalii, deci, în mare parte, consider că site-ul este "responsive", cu mici scăpări, însă eu sunt foarte mândru de ce am realizat.
 
-  **(!) Alte precizări:**<br>
+   **(!) Alte precizări:**<br>
 	- Pentru partea de aspect, am definit în mare parte singur clasele în **CSS**, oferindu-le totodată un nume sugestiv pentru a și înțelege exact care ce face. Am respectat fonturile și dimensiunile date de mockup, cu mici modificări pentru a putea realiza responsive-ul și am încercat să le fac în așa fel încât, ori de câte ori am nevoie, să le pot "apela".
 	
 II. **BACKEND:**
