@@ -47,10 +47,10 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 	- Am reușit să definesc două **"models"** și două **"routes"**, câte una din fiecare pentru entitatea **"user"**, iar celelalte pentru entitatea **"meme"**. Întrucât **ID**-ul se genera automat de baza de date, nu l-am mai trecut în **"model"**, în schimb am adăugat și data exactă.
 
 2. **CRUD - Create, Read, Update, Delete:**
-	- **POST /memes** a fost primul CRUD pe care l-am creat și drept să spun, mi s-a părut dificil la început. O dată definit corect, lucrurile mi s-au părut mai clare și deci implementarea celorlalte a venit aproximativ, cu mici ajutări, de la sine.
-	- **GET /memes** și **GET /memes/:id** am reușit să le fac să funcționeze destul de rapid, după cum am spus mai sus, nefiind prea complicat, întrucât sintaxa era aproximativ asemănătoare.
-	- **PATCH /memes** a fost, de asemeneam, destul de provocator de rezolvat. Aici deja începeam să fac lucrurile singur, fără să mai caut sau să mai întreb până și cele mai mici lucruri, întrucât totul părea să aibă sens.
-	- **DELETE /memes/:id** a fost favoritul meu. Mi s-a părut interesant de făcut, iar când am văzut că într-adevăr funcționează, mi-a umplut inima de bucurie.
+	- ``POST /memes`` a fost primul CRUD pe care l-am creat și drept să spun, mi s-a părut dificil la început. O dată definit corect, lucrurile mi s-au părut mai clare și deci implementarea celorlalte a venit aproximativ, cu mici ajutări, de la sine.
+	- ``GET /memes`` și ``GET /memes/:id`` am reușit să le fac să funcționeze destul de rapid, după cum am spus mai sus, nefiind prea complicat, întrucât sintaxa era aproximativ asemănătoare.
+	- ``PATCH /memes`` a fost, de asemeneam, destul de provocator de rezolvat. Aici deja începeam să fac lucrurile singur, fără să mai caut sau să mai întreb până și cele mai mici lucruri, întrucât totul părea să aibă sens.
+	- ``DELETE /memes/:id`` a fost favoritul meu. Mi s-a părut interesant de făcut, iar când am văzut că într-adevăr funcționează, mi-a umplut inima de bucurie.
 
 3. **Register & Login:**
 	- Pentru acest task am încercat mai mult să definesc mici părți din totalul pe care trebuia să-l fac, cât am reușit.
