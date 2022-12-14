@@ -10,6 +10,6 @@
 # Tehnologii utilizate:
 
 Pentru realizarea proiectului, am folosit:
-	1. Frontend: HTML, Bootstrap, CSS;
-	2. Backend: PostMan, MongoDB, Mongoose, JavaScript (NodeJS);
+1. Frontend: HTML, Bootstrap, CSS;
+2. Backend: PostMan, MongoDB, Mongoose, JavaScript (NodeJS);
 Codul întregului proiect a fost realizat în "Visual Studio Code", fiind totodată și prima dată când am utilizat această aplicație.
