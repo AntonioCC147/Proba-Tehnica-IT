@@ -1,0 +1,331 @@
+/* Clase definite */
+
+.fundal_l{
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  left: -14%;
+  top: 66%;
+
+  background: #6F3096;
+}
+
+.buton_principal{
+  width: 30%;
+  height: 10%;
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 110%;
+  line-height: 25px;
+  text-align: center;
+  border: none;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 1%;
+  padding: auto;
+
+  color: #FFFFFF;
+  background: #6F3096;
+  border-radius: 5px;
+}
+
+.buton_l{
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  margin: auto;
+  top: 75%;
+  border-radius: 5px;
+  padding: 5% 20%;
+  margin: 10% 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+
+  color: #FFFFFF;
+  background: #6F3096;
+}
+
+.button_close{
+  left: 87.5%;
+  right: 7.38%;
+  top: 3.28%;
+  bottom: 92.82%;
+  border: none;
+
+  background: none;
+}
+
+.bg_form{
+  width: auto;
+  height: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+
+  background: #6F3096;
+}
+
+.drag_drop{
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 20px;
+
+  color: #777777;
+}
+
+.img-fix{
+  padding-top: 0;
+}
+
+box, input[type=text], input[type=textarea], input[type=password], input[type=email], input[type=file]{
+  width: 100%;
+  padding: 5% 20%;
+  margin: 3% 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.cadru_principal{
+  padding-top: 12%;
+}
+
+.cadru0{
+  padding-top: 5%;
+  min-height: 65%;
+}
+
+.cadru1{
+  margin: auto;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding-top: 5%;
+  padding-bottom: 10%;
+
+  background: #6F3096;
+}
+
+.cadru2{
+  width: 75%;
+  height: 75%;
+  margin: auto;
+  border-radius: 5px;
+  padding-bottom: auto;
+
+  background: white;
+}
+
+.cadru3{
+  width: 70%;
+  min-height: 65%;
+  margin: auto;
+  border-radius: 5px;
+  padding-top: 5%;
+  padding-bottom: 3%;
+
+  background: white;
+}
+
+.text_principal1{
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 43px;
+  line-height: 121.1%;
+
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #252F65;
+}
+
+.text_principal2{
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 121.1%;
+
+  color: #252F65;
+}
+
+.text_principal3{
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  padding-top: 3%;
+  padding-bottom: 3%;
+
+  color: #252F65;
+}
+
+.text_secundar1{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 23px;
+
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  color: #252F65;
+}
+
+.text_secundar2{
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 121.1%;
+
+  color: #252F65;
+}
+
+.text_secundar3{
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 121.1%;
+  text-align: center;
+
+  color: #FFFFFF;
+}
+
+.welcome{
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: center;
+  padding-top: 7%;
+
+  color: #6F3096;
+}
+
+.font{
+  font-family: 'Merriweather';
+  color: #252F65;
+}
+
+.font_form{
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+
+  color: #06114F;
+}
+
+.form{
+  width: 10px;
+  padding: 50px;
+  margin: 10px;
+  margin-right: 0;
+  border-radius: 5px;
+
+  background: white;
+}
+
+.bg_social{
+  width: auto;
+  height: 100px;
+  text-align: center;
+
+  background: #06114F;
+}
+
+.fa{
+  padding: 20px;
+  padding-bottom: 0;
+  font-size: 30px;
+  width: 0;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 0;
+  color: white;
+}
+
+.fa:hover{
+  opacity: 0.7;
+}
+
+/* Clase predefinite personalizate */
+
+.modal-content{
+  border: 0px !important;
+  border-radius: 5px !important;
+}
+
+.navbar-nav{
+  text-align: right !important;
+  color: red !important;
+}
+
+.nav-link.active{
+  color: #0d1b68 !important;
+  font-weight: 300 !important;
+  font-family: 'Merriweather' !important;
+}
+
+.fa-instagram{
+  padding-left: 0 !important;
+}
+
+.fa-twitch{
+  padding-left: 0 !important;
+}
+
+.fa-facebook-official{
+  padding-left: 0 !important;
+}
+
+/* Modificari pentru accesare de pe Android / IOS */
+
+@media only screen and (max-width: 1000px){
+  img{
+    padding-top: 10%;
+  }
+  body{
+    padding-top: 15%;
+  }
+  .cadru_principal{
+    padding-top: 0;
+  }
+  .buton_principal{
+    width: 100%;
+    height: auto;
+    margin-top: 10%;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 3%;
+  }
+  .text_principal1{
+    padding-bottom: 3%;
+  }
+  .text_principal2{
+    text-align: center;
+  }
+  .text_secundar2{
+    text-align: center;
+  }
+  .text_principal3{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 0%;
+  }
+}

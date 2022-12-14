@@ -1,0 +1,162 @@
+<!--Proiect realizat de către Crantea Antonio Cristian pentru Departamentul de IT din cadrul LSAC - Decembrie 2022-->
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="CSS.css" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
+        <title>MEMEIT?</title>
+        <link rel="icon" type="image/x-icon" href="Imagini\Icon.jpeg">
+    </head>
+    <body>
+        <!--Navbar-->
+        <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
+            <div class="container-fluid">
+                <img class="img-fix" src="Imagini\Logo.png">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse flex-row-reverse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a href="#" class="nav-link active" aria-current="page" data-bs-toggle="modal" data-bs-target="#Login">Logare</a>
+                        <a href="#" class="nav-link active" aria-current="page" data-bs-toggle="modal" data-bs-target="#Creare">Creare cont</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <!-- Login - Modal -->
+        <div class="modal fade" id="Login" tabindex="-1" aria-labelledby="LoginLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header col-xl-12">
+                        <img src="Imagini\Logo.png" width="30%" height="30%">
+                        <button type="button" class="button_close" data-bs-dismiss="modal" aria-label="Close"><img src="Imagini\Vector.png"/></button>
+                    </div>
+                    <div class="cadru1">
+                        <div class="cadru2">
+                            <div class="container col-xl-12">
+                                <h1 class="welcome">Welcome back</h1>
+
+                                <label class="font" for="uname"><b>Username</b></label>
+                                <input class="font" type="text" placeholder="username" name="uname" required>
+                        
+                                <label class="font" for="psw"><b>Password</b></label>
+                                <input class="font" type="password" placeholder="parolă" name="psw" required>
+                                
+                                <button type="button" class="buton_l" data-bs-dismiss="modal">Login</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Creare cont - Modal -->
+        <div class="modal fade" id="Creare" tabindex="-1" aria-labelledby="CreareLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header col-xl-12">
+                        <img src="Imagini\Logo.png" width="30%" height="30%">
+                        <button type="button" class="button_close" data-bs-dismiss="modal" aria-label="Close"><img src="Imagini/Vector.png"></button>
+                    </div>
+                    <div class="cadru1">
+                        <div class="cadru2">
+                            <div class="container col-xl-12">
+                                <h1 class="welcome">Welcome</h1>
+
+                                <label class="font" for="uname"><b>Username</b></label>
+                                <input class="font" type="text" placeholder="username" name="uname" required>
+                                
+                                <label class="font" for="uname"><b>Email</b></label>
+                                <input class="font" type="email" placeholder="email" name="uname" required>
+
+                                <label class="font" for="psw"><b>Password</b></label>
+                                <input class="font" type="password" placeholder="parolă" name="psw" required>
+                                        
+                                <button type="button" class="buton_l" data-bs-dismiss="modal">Creare cont</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid cadru0">
+            <div class="col-md-12">
+                <!--Principal-->
+                <div class="row-xl-4">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-xl-8">
+                                <div class="cadru_principal">
+                                    <h1 class="text_principal1">Partajarea de meme-uri nu a fost niciodată mai simplă!</h1>
+                                    <h1 class="text_secundar1">Platforma ideală pentru studenții de la Politehnică, amuzați de câte materii o să pice semestrul asta.</h1>
+                                    <a href="#meme"><button type="button" class="buton_principal">Upload a MEME</button></a>
+                                </div>
+                            </div>
+                            <div class="col-sm-4 col-sm-4">
+                                <img src="Imagini\Salty.png" width="100%" height="100%">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--Formular-->
+                <div class="row" id="meme">
+                    <div class="bg_form">
+                        <div class="cadru3">
+                            <div class="container col-xl-12">
+                                <div class="row">
+                                    <div class="col">
+                                        <h3 class="text_principal2">Ai tupeu și crezi că ești amuzant?</h3>
+                                        <p class="text_secundar2">Trimite-ne un mail și poate ai noroc să ne apuce râsul când îți vedem meme-ul.</p>
+                                    </div>
+                                    <div class="col">
+                                        <div class="container">
+                                            <label class="font_form" for="uname">Descriere</label>
+                                            <input class="font" type="textarea" placeholder="descriere" name="uname" required>
+
+                                            <label class="font_form" for="uname">Meme (jpg, jpeg, png, gif)</label>
+                                            <box> <label class="drag_drop" for="upload">drag & drop image or click to upload</label></box>
+
+                                            <input type="file" accept="image/x-png,image/gif,image/jpg,image/jpeg" id="upload" hidden/>
+                                            <button class="buton_principal">Trimite</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--Meme-uri-->
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h3 class="text_principal3">Most Viewed</h3>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <img src="Imagini\Meme1.png" style="width:100%">
+                        </div>
+                        <div class="col-lg-4">
+                            <img src="Imagini\Meme2.png" style="width:100%">
+                        </div>
+                        <div class="col-lg-4">
+                            <img src="Imagini\Meme3.png" style="width:100%">
+                        </div>
+                    </div>
+                </div><br>
+                 <!--Footer-->
+                <div class="row">
+                    <div class="bg_social">
+                        <a href="https://www.instagram.com/lsacbucuresti/" target="_blank" class="fa fa-instagram"></a>
+                        <a href="https://www.twitch.tv/lsac_bucuresti" target="_blank" class="fa fa-twitch"></a>
+                        <a href="https://www.facebook.com/LsacBucuresti/" target="_blank" class="fa fa-facebook-official"></a>
+                        <p class="text_secundar3">Copyright 2022 | La muncă, nu la întins mâna.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
