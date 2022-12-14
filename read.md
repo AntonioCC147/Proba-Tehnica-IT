@@ -39,7 +39,7 @@ I. **FRONTEND**
 6. **Responsivitatea design-ului:**
 	- Acest task a reprezentat o adevărată provocare, întrucât nu mai lucrasem cu așa ceva până acum. Am învățat care este faza cu padding-ul, margin, alinieri și așa mai departe. Am încercat să fiu atent până și la cele mai mici detalii, deci, în mare parte, consider că site-ul este "responsive", cu mici scăpări, însă eu sunt foarte mândru de ce am realizat.
 
-   **(!) Alte precizări:**<br>
+**(!) Alte precizări:**<br>
 	- Pentru partea de aspect, am definit în mare parte singur clasele în **CSS**, oferindu-le totodată un nume sugestiv pentru a și înțelege exact care ce face. Am respectat fonturile și dimensiunile date de mockup, cu mici modificări pentru a putea realiza responsive-ul și am încercat să le fac în așa fel încât, ori de câte ori am nevoie, să le pot "apela".
 	
 II. **BACKEND:**
@@ -47,29 +47,29 @@ II. **BACKEND:**
 	- Am reușit să definesc două **"models"** și două **"routes"**, câte una din fiecare pentru entitatea **"user"**, iar celelalte pentru entitatea **"meme"**. Întrucât **ID**-ul se genera automat de baza de date, nu l-am mai trecut în **"model"**, în schimb am adăugat și data exactă.
 
 2. **CRUD - Create, Read, Update, Delete:**
-	- POST /memes a fost primul CRUD pe care l-am creat și drept să spun, mi s-a părut dificil la început. O dată definit corect, lucrurile mi s-au părut mai clare și deci implementarea celorlalte a venit aproximativ, cu mici ajutări, de la sine.
-	- GET /memes și GET /memes/:id am reușit să le fac să funcționeze destul de rapid, după cum am spus mai sus, nefiind prea complicat, întrucât sintaxa era aproximativ asemănătoare.
-	- PATCH /memes a fost, de asemeneam, destul de provocator de rezolvat. Aici deja începeam să fac lucrurile singur, fără să mai caut sau să mai întreb până și cele mai mici lucruri, întrucât totul părea să aibă sens.
-	- DELETE /memes/:id a fost favoritul meu. Mi s-a părut interesant de făcut, iar când am văzut că într-adevăr funcționează, mi-a umplut inima de bucurie.
+	- **POST /memes** a fost primul CRUD pe care l-am creat și drept să spun, mi s-a părut dificil la început. O dată definit corect, lucrurile mi s-au părut mai clare și deci implementarea celorlalte a venit aproximativ, cu mici ajutări, de la sine.
+	- **GET /memes** și **GET /memes/:id** am reușit să le fac să funcționeze destul de rapid, după cum am spus mai sus, nefiind prea complicat, întrucât sintaxa era aproximativ asemănătoare.
+	- **PATCH /memes** a fost, de asemeneam, destul de provocator de rezolvat. Aici deja începeam să fac lucrurile singur, fără să mai caut sau să mai întreb până și cele mai mici lucruri, întrucât totul părea să aibă sens.
+	- **DELETE /memes/:id** a fost favoritul meu. Mi s-a părut interesant de făcut, iar când am văzut că într-adevăr funcționează, mi-a umplut inima de bucurie.
 
 3. **Register & Login:**
-		Pentru acest task am încercat mai mult să definesc mici părți din totalul pe care trebuia să-l fac, cât am reușit.
+	- Pentru acest task am încercat mai mult să definesc mici părți din totalul pe care trebuia să-l fac, cât am reușit.
 
 4. **Input Validation:**
-		Am încercat să fac validare pentru nume, parolă și email după cerință. Nu am apucat să leg prea mult această validare de site, însă am decis că mai bine încerc să las ceva în filă, decât să nu mă ating de task.
+	- Am încercat să fac validare pentru nume, parolă și email după cerință. Nu am apucat să leg prea mult această validare de site, însă am decis că mai bine încerc să las ceva în filă, decât să nu mă ating de task.
 
 5. **Protected Endpoints / 6. BONUS: File Upload:**
-		Spre rușinea mea, nu am putut să realizez absolut nimic din aceste task-uri.
+	- Spre rușinea mea, nu am putut să realizez absolut nimic din aceste task-uri.
 
-**(!) Alte precizări:**
-		Am încercat exact ca la partea de frontend, anume să fac totul să fie cât mai sugestiv și ușor de înțeles pentru cine citește codul. Recunosc că mai sunt lucruri pe care le pot îmbunătăți, evident, însă per total am înțeles, zic eu, aspecte importante din această parte.
+**(!) Alte precizări:**<br>
+	- Am încercat exact ca la partea de frontend, anume să fac totul să fie cât mai sugestiv și ușor de înțeles pentru cine citește codul. Recunosc că mai sunt lucruri pe care le pot îmbunătăți, evident, însă per total am înțeles, zic eu, aspecte importante din această parte.
 
 # Rularea aplicațiilor:
 
 Pentru a putea rula și vizualiza local întreg conținutul proiectului, trebuie descărcat de pe Github. După acest pas, dezarhivați folderul pe calculator, ulterior având acces la toate fișerele sursă.
 
 I. **FRONTEND**
-- Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul "frontend" și să accesați fișierul "MEMEIT". Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ".txt", sau cu ajutorul aplicației "Visual Studio Code".
+- Pentru a vizualiza site-ul, tot ce trebuie să faceți este să vă duceți în folderul **"frontend"** și să accesați fișierul **"MEMEIT"**. Ulterior, pagina web se va deschide și veți avea acces la interfața paginii, putând vedea codul deschizând fișierul în format ".txt", sau cu ajutorul aplicației "Visual Studio Code".
 
 II. **BACKEND**
 - Pentru partea de back veți avea nevoie să instalați "PostMan" (pentru testarea API) și "MongoDBCompass" (pentru comunicarea cu baza de date). Conexiunea dintre cele două aplicații și partea de backend se poate realiza cu ajutorul "Visual Studio Code", tastând comanda "npm start" pentru a porni baza de date, doar atunci când vă aflați în folderul "backend". Pentru a ajunge acolo, este necesară doar trimiterea către aceea cale de acces cu ajutorul comenzii "cd .\backend\".
