@@ -11,8 +11,8 @@
 # Tehnologii utilizate:
 
 Pentru realizarea proiectului, am folosit:
-1. **Frontend: HTML, Bootstrap, CSS**;
-2. **Backend: PostMan, MongoDB, Mongoose, JavaScript (NodeJS)**;
+1. **Frontend: HTML, Bootstrap, CSS;**
+2. **Backend: PostMan, MongoDB, Mongoose, JavaScript (NodeJS);**
 
 Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind totodată și prima dată când am utilizat această aplicație.
 
@@ -21,11 +21,11 @@ Codul întregului proiect a fost realizat în **"Visual Studio Code"**, fiind to
 I. **FRONTEND**
 1. **Navbar:**
 	- Navbar-ul reprezintă primul lucru cu care am început să lucrez, în ciuda celor recomandate. Am reușit să fac pentru prima dată un navbar aproximativ funcțional, întrucât până acum nu mai lucrasem cu așa ceva. Am reușit să-l fac să se mențină pe tot parcursul scroll-ului și am reușit să fac și cele două casete de "Logare", respectiv "Creare cont".
-		De asemenea, navbar-ul a fost cel mai greu lucru din partea de frontend. Nu reușeau să-l poziționez corect, să mențin logo-ul în partea stângă și nici să se plimbe pe tot parcursul navigării, însă, cu ajutorul sfaturilor de la mentor, dar și internet, am dus totul până la capăt, într-un final.
+	- De asemenea, navbar-ul a fost cel mai greu lucru din partea de frontend. Nu reușeau să-l poziționez corect, să mențin logo-ul în partea stângă și nici să se plimbe pe tot parcursul navigării, însă, cu ajutorul sfaturilor de la mentor, dar și internet, am dus totul până la capăt, într-un final.
 
 2. **Landing page:**
-		Connsider că am reușit să fac site-ul să arate ca în mockup-ul impus de către temă. Am respectat culorile, fonturile, dimensiunile și am încercat pe cât posibil să fac ca până și butonul de la căsuțele de logare / creare cont să conțină butoanele din exemplu. Mă consider un om perfecționist, de aceea detaliile mici contează. Chiar pe ultima sută de metri am observat că pusesem butonul de Facebook de tip "fa-facebook" în loc de "fa-facebook-official", astfel că am modificat. Butonul de "Upload a meme" trimite utilizatorul către căsuța de încărcare a meme-urilor, așa cum a fost specificat.
-		De asemenea, prima dată am putut și am învățat să folosesc "Grid System", întrucât nu înțelegeam cum pot secționa un site pe mai multe părți.
+	- Connsider că am reușit să fac site-ul să arate ca în mockup-ul impus de către temă. Am respectat culorile, fonturile, dimensiunile și am încercat pe cât posibil să fac ca până și butonul de la căsuțele de logare / creare cont să conțină butoanele din exemplu. Mă consider un om perfecționist, de aceea detaliile mici contează. Chiar pe ultima sută de metri am observat că pusesem butonul de Facebook de tip "fa-facebook" în loc de "fa-facebook-official", astfel că am modificat. Butonul de "Upload a meme" trimite utilizatorul către căsuța de încărcare a meme-urilor, așa cum a fost specificat.
+	- De asemenea, prima dată am putut și am învățat să folosesc "Grid System", întrucât nu înțelegeam cum pot secționa un site pe mai multe părți.
 
 3. **Login / Register:**
 		Am făcut castele de logare / înregistrare să se deschidă pe centrul ecranului, adăugând și efectul de umbră cerut. Atunci când se apasă oriunde pe ecran, acestea se închid.
