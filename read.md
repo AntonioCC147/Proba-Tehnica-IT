@@ -1,4 +1,4 @@
-### Proiect realizat de către Crantea Antonio Cristian pentru Departamentul de IT din cadrul LSAC - Decembrie 2022
+#### Proiect realizat de către Crantea Antonio Cristian pentru Departamentul de IT din cadrul LSAC - Decembrie 2022
 
 # Prefață:
 
